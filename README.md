@@ -1,6 +1,6 @@
 Movie_Bot
 
-As the name suggests, it is a chatbot where in you can ask reviews, details about any movie. Apart from this, the bot has knowledge to respond to common phrases like hey, who are you?, etc in a complete sense. 
+As the name suggests, it is a chatbot where in you can ask reviews, details about any movie. Apart from this, the bot has knowledge to respond to some of very common phrases like hey, who are you?, etc in a sensible way. 
 This is my first attempt in developing chatbots. 
 The bot has been developed on top of technologies:
 
